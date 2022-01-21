@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore Gradle project-specific cache directory
+.gradle/
+
+## Directory-based project format:
+.idea/
+
+!/lib/**/*.jar
+bin/
+gen/
+build/
+/out/
